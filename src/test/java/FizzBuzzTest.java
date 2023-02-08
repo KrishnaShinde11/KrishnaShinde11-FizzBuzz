@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class FizzBuzzTest {
-    FizzBuzz fb = new FizzBuzz();
+    Lab fb = new Lab();
 
     /**
      * Because 5 is divisible by 5 but not 3, return "Buzz".
